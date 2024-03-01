@@ -1,0 +1,62 @@
+.latest-match-card {
+  background-color: #0f172a;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 90vw;
+}
+.first-innings-details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+}
+.competingTeam-text {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: bold;
+}
+.date-text {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.venue-text {
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 500;
+}
+.result-text {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+}
+.competing-team-logo {
+  height: 60px;
+}
+hr {
+  border: 1px solid #475569;
+  width: 100%;
+}
+.text {
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 500;
+}
+.heading {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+}
+.innings-container {
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  margin: 0px;
+}
